@@ -1,0 +1,57 @@
+* {padding:0;margin:0;}
+h1 {color:purple;}
+a {color:pink;
+  margin-left:20px;
+  margin-right:20px;
+  font-size:20px;
+  text-decoration:none;
+}
+#navbar {
+  Background-color:rgb(0,0,0, .5);
+  width:100%;
+  height:50px;
+}
+.trio {
+  padding-top:10%;
+  background:rgba(255,0,0,1);
+  width:100%;
+  height:300px;
+}
+.trio img{
+  padding:5px;
+  float:left;
+  width:32%;
+  height:200px;
+}
+.cuarteto {
+  padding-top:10%;
+  background:rgba(255,0,0,1);
+  width:100%;
+  height:300px;
+}
+.cuarteto img{
+  padding:5px;
+  float:left;
+  width:32%;
+  height:200px;
+}
+.duo {
+  padding-top:10%;
+  background:rgba(255,0,0,1);
+  width:100%;
+  height:300px;
+}
+.duo img{
+  float:left;
+  width:32%;
+  height:200px;
+  
+
+
+
+
+
+
+
+
+
